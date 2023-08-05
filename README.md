@@ -8,7 +8,7 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Writing `Python`, `Bash`.
+- Developing code using `Python` or `Bash`.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/caleb-jones-shibu/")**.
 - Building doing research and developing AI models and apps for **[ToMCAT](https://github.com/ml4ai/tomcat)**
 
