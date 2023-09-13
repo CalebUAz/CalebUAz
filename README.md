@@ -4,13 +4,13 @@ Hi there 👋!
 
 - A Graduate Research Assistant for **[ToMCAT](https://ml4ai.github.io/tomcat/)([ToMCAT Repo](https://github.com/ml4ai/tomcat))**.
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
-- Available for hire in Fall 2023.
+- Available for hire in spring 2024.
 
 #### What I'm doing?
 
 - Developing code using `Python` or `Bash`.
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/caleb-jones-shibu/")**.
-- Building doing research and developing AI models and apps for **[ToMCAT](https://github.com/ml4ai/tomcat)**
+- Doing research and developing AI models and apps for **[ToMCAT](https://github.com/ml4ai/tomcat)**
 
 #### What are my skill sets?
 
