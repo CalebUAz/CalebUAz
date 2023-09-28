@@ -46,7 +46,7 @@ Hi there 👋!
 <a href="http://www.github.com/CalebUAz"><img src="https://github-readme-stats.vercel.app/api?username=CalebUAz&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="CalebUAz's GitHub stats" /></a>
 <a href="http://www.github.com/CalebUAz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CalebUAz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebUAz&theme=dracula) ></a>
-<a ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CalebUAz&theme=dracula) ></a>
-<a ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CalebUAz&theme=dracula) ></a>
+<a ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebUAz&theme=dracula) /></a>
+<a ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CalebUAz&theme=dracula) /></a>
+<a ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CalebUAz&theme=dracula) /></a>
  </p>
