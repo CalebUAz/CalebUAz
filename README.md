@@ -4,7 +4,7 @@ Hi there 👋!
 
 - A Graduate Research Assistant for **[ToMCAT](https://ml4ai.github.io/tomcat/)([ToMCAT Repo](https://github.com/ml4ai/tomcat))**.
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
-- Available for hire in spring 2024.
+- Available for hire in January 2024.
 
 #### What I'm doing?
 
