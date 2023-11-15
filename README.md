@@ -16,7 +16,7 @@ Hi there 👋!
 
 - 🗄️ **Backend:**
   - **Language/Platform:** `Python` • `JavaScript` • `Bash` • `MATLAB` 
-  - **Framework:** `Django` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn`• `langchain`• `streamlit`
+  - **Framework:** `Django` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn`• `langchain`• `streamlit`• `PyQT5`
   - **Databases:** `MySQL` • `PostgreSQL`
   - **Protocol:** `REST` • `Web Socket`
 
