@@ -4,7 +4,6 @@ Hi there 👋!
 
 -  Software Engineer 2 at the Allen Institute for the **[Neural Dynamics Team](https://alleninstitute.org/division/neural-dynamics/)**.
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
-- Available for hire in January 2024.
 
 #### What I'm doing?
 
