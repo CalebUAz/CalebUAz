@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Graduate Research Assistant for **[ToMCAT](https://ml4ai.github.io/tomcat/)([ToMCAT Repo](https://github.com/ml4ai/tomcat))**.
+-  Software Engineer 2 at the Allen Institute for the **[Neural Dynamics Team](https://alleninstitute.org/division/neural-dynamics/)**.
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
 - Available for hire in January 2024.
 
