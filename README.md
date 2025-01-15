@@ -8,9 +8,9 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Developing code using `Python` or `Bash`.
+- Developing code using `Python` or `Bash` or `Matlab`
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/caleb-jones-shibu/")**.
-- Doing research and developing AI models and apps for **[ToMCAT](https://github.com/ml4ai/tomcat)**
+- Doing research and developing AI models and scientific tools for **[AllenNeuralDynamics](https://github.com/AllenNeuralDynamics)** 
 
 #### What are my skill sets?
 
