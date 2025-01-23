@@ -43,15 +43,24 @@ Hi there 👋!
 <br/>
 
 <p align="center">
-<a href="https://www.github.com/CalebUAz">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalebUAz&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true" alt="GitHub stats for CalebUAz" />
-</a>
-<a href="https://www.github.com/CalebUAz">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalebUAz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats for CalebUAz" />
-</a>
+  <!-- GitHub Stats -->
+  <a href="https://www.github.com/CalebUAz">
+    <img src="https://github-readme-stats.vercel.app/api?username=CalebUAz&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&include_all_commits=false" alt="GitHub stats for CalebUAz (2023)" />
+  </a>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebUAz&theme=dracula" alt="Profile details for CalebUAz" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CalebUAz&theme=dracula" alt="Repos per language for CalebUAz" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CalebUAz&theme=dracula" alt="Most commit language for CalebUAz" />
+  <!-- GitHub Streak Stats -->
+  <a href="https://www.github.com/CalebUAz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalebUAz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak stats for CalebUAz (2023)" />
+  </a>
+
+  <!-- Profile Details -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CalebUAz&theme=dracula" alt="Profile details for CalebUAz" />
+
+  <!-- Repos Per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CalebUAz&theme=dracula" alt="Repos per language for CalebUAz" />
+
+  <!-- Most Commit Language -->
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CalebUAz&theme=dracula" alt="Most commit language for CalebUAz" /> -->
 </p>
+
 
