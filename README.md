@@ -15,7 +15,7 @@ Hi there 👋!
 #### What are my skill sets?
 
 - 🗄️ **Backend:**
-  - **Language/Platform:** `Python` • `JavaScript` • `Bash` • `MATLAB` 
+  - **Language/Platform:** `Python` • `JavaScript` • `Bash` • `MATLAB` • `C` • `C++` • `C#`  
   - **Framework:** `Django` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn`• `langchain`• `streamlit`• `PyQT5`
   - **Databases:** `MySQL` • `PostgreSQL`
   - **Protocol:** `REST` • `Web Socket`
