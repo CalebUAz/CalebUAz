@@ -2,22 +2,22 @@ Hi there 👋!
 
 #### Who I am?
 
--  Software Engineer 2 at the Allen Institute for the **[Neural Dynamics Team](https://alleninstitute.org/division/neural-dynamics/)**.
+-  Full stack AI engineer at PAGE Technologies for the **[PAGE Technologies](https://pagetechnologies.io)**
 -  Previously active Github repository at **[calebshibu](https://github.com/calebshibu)** 
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
 
 #### What I'm doing?
 
-- Developing code using `Python` or `Bash` or `Matlab`
+- Developing code using `Python` or `Bash` or `Matlab` or `Type Script`
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/caleb-jones-shibu/")**.
 - Doing research and developing AI models and scientific tools for **[AllenNeuralDynamics](https://github.com/AllenNeuralDynamics)** 
 
 #### What are my skill sets?
 
 - 🗄️ **Backend:**
-  - **Language/Platform:** `Python` • `JavaScript` • `Bash` • `MATLAB` • `C` • `C++` • `C#`  
-  - **Framework:** `Django` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn`• `langchain` • `streamlit` • `PyQT5` • `OpenAI Gym` • `Stable Baselines3` • `Pygame` • `MLflow` • `Nextflow`
-  - **Databases:** `MySQL` • `PostgreSQL`
+  - **Language/Platform:** `Python` • `JavaScript` • `Bash` • `MATLAB` • `C` • `C++` • `C#`  • `TS` 
+  - **Framework:** `Django` • `TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn`• `langchain` • `streamlit` • `PyQT5` • `OpenAI Gym` • `Stable Baselines3` • `Pygame` • `MLflow` • `Nextflow` • `SST` 
+  - **Databases:** `MySQL` • `PostgreSQL` • `DynamoDB` 
   - **Protocol:** `REST` • `Web Socket`
 
 - 🖥 **Frontend: (_which I rarely do_)**
