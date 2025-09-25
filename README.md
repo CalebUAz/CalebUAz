@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
--  Full stack AI engineer at PAGE Technologies for the **[PAGE Technologies](https://pagetechnologies.io)**
+-  Full stack AI engineer at **[PAGE Technologies](https://pagetechnologies.io)**
 -  Previously active Github repository at **[calebshibu](https://github.com/calebshibu)** 
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
 
