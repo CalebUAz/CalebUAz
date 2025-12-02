@@ -2,7 +2,7 @@ Hi there 👋!
 
 #### Who I am?
 
--  Full stack AI engineer at **[PAGE Technologies](https://pagetechnologies.io)**
+-  Founding engineer at **[PAGE Technologies](https://pagetechnologies.io)**
 -  Previously active Github repository at **[calebshibu](https://github.com/calebshibu)** 
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
 
@@ -10,7 +10,7 @@ Hi there 👋!
 
 - Developing code using `Python` or `Bash` or `Matlab` or `Type Script`
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/caleb-jones-shibu/")**.
-- Doing research and developing AI models and scientific tools for **[AllenNeuralDynamics](https://github.com/AllenNeuralDynamics)** 
+- Doing research and developing AG-Tech AI stuff for for **[PAGE Technologies](https://www.pagetechnologies.io)** 
 
 #### What are my skill sets?
 
@@ -20,12 +20,12 @@ Hi there 👋!
   - **Databases:** `MySQL` • `PostgreSQL` • `DynamoDB` 
   - **Protocol:** `REST` • `Web Socket`
 
-- 🖥 **Frontend: (_which I rarely do_)**
-  - **Language:** `JavaScript` • `HTML`
-  - **Utils:** `CSS`
+- 🖥 **Frontend:**
+  - **Language:** `React` • `JavaScript` • `HTML`
+  - **Utils:** `CSS` • `shadcn`
 
 - 🎡 **Ecosystem:**
-  - **Containerization:** `Docker` • `Kubernetes`
+  - **Containerization:** `Docker` • `Kubernetes` 
   - **Version Control:** `Git` • `GitHub`
   - **Project Management:** `Jira` • `GitHub Projects` • `Trello` • `Confluence` 
 
