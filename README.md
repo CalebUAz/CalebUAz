@@ -3,7 +3,7 @@ Hi there 👋!
 #### Who I am?
 
 -  Founding engineer at **[PAGE Technologies](https://pagetechnologies.io)**
--  Previously active Github repository from 2024 to 2025 during my time at **[Allen Institute](https://github.com/AllenNeuralDynamics) is at **[calebshibu](https://github.com/calebshibu)** 
+-  Previously active Github repository from 2024 to 2025 during my time at **[Allen Institute](https://github.com/AllenNeuralDynamics)** is at **[calebshibu](https://github.com/calebshibu)** 
 - See my portfolio at **[calebuaz.github.io](https://calebuaz.github.io/)**.
 
 #### What I'm doing?
