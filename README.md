@@ -42,13 +42,4 @@ Hi there 👋!
 <br/>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CalebUAz&show_icons=true&theme=dracula&count_private=true" alt="Caleb's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CalebUAz&theme=dracula" alt="Caleb's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CalebUAz&theme=dracula&no-bg=true" alt="Trophies" />
-</p>
-
 
