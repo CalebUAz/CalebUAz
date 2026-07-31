@@ -8,7 +8,7 @@ Hi there 👋!
 
 #### What I'm doing?
 
-- Baby sit agents.
+- Building and babysitting agents.
 - Developing code using `Python` or `Bash` or `Matlab` or `Type Script`. 
 - Mostly active on **[LinkedIn](https://www.linkedin.com/in/caleb-jones-shibu/")**.
 - Doing research and developing AG-Tech AI stuff for for **[PAGE Technologies](https://www.pagetechnologies.io)** 
